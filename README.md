@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetancodex
+- 👋 Hi, I’m Chetanya Mathur
 - 👀 I’m interested in web developmment
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects
